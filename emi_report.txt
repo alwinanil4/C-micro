@@ -1,0 +1,20 @@
+============================================================
+               LOAN EMI EVALUATION REPORT                   
+============================================================
+Generated Date & Time : Wed Nov  4 15:26:49 2026
+Loan Type             : Education Loan
+Requested Loan Amount : Rs. 700000.00
+Annual Interest Rate  : 7.50%
+Tenure                : 4 Years (48 Months)
+Application Decision  : REJECTED
+------------------------------------------------------------
+
+ELIGIBILITY CHECKS BREAKDOWN:
+  [PASS] Applicant Age: 18 years (Required: 16 to 35 years)
+  [PASS] Co-Applicant Age: 40 years (Required: 25 to 65 years)
+  [FAIL] Credit Score: 400 (Poor) - Below minimum requirement of 650
+  [PASS] Monthly Income: Rs. 300000.00 (Meets minimum required: Rs. 15000.00)
+  [PASS] FOIR: 5.6% (Maximum allowed: 50.0%, Total EMIs: Rs. 16925.18)
+  [PASS] No Collateral Required (Loan amount <= Rs. 7,50,000)
+
+Maximum loan amount possible for this tenure: Rs. 6203755.67
